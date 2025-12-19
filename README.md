@@ -167,6 +167,7 @@ $$
 ---
 
 ## Project Structure
+```
 nhl-shot-modeling/
 ├── data/
 │   ├── raw/
@@ -187,6 +188,7 @@ nhl-shot-modeling/
 │   └── baseline_model_notes.md
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
