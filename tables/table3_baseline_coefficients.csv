@@ -1,0 +1,6 @@
+Parameter,MLE Estimate,Odds Ratio
+α (Intercept),-2.8086,0.0603
+β_d (Distance),-0.7763,0.4601
+β_d2 (Distance²),0.0589,1.0607
+β_a (Angle),-0.2883,0.7496
+β_r (Rebound),-0.035,0.9656
